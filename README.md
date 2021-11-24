@@ -1,4 +1,4 @@
-# Pybo - A Crypto Inspired Discord Bot 
+# PyBo - A Crypto Inspired Discord Bot 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: MIT](https://img.shields.io/badge/Development_Server-PyBo-blue.svg)](https://discord.gg/25wb7AbaV5) [![License: MIT](https://img.shields.io/badge/Invite-PyBo-blue.svg)](https://discord.com/api/oauth2/authorize?client_id=733004304855597056&permissions=2435968598&scope=bot%20applications.commands)
 
 <p align="center">

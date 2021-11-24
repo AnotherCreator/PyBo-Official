@@ -33,7 +33,8 @@ DevBo will run without the need of setting up a cloud hosting service.
 - Increased interaction with cryptocurrency data
     - [ ] Personal 'portfolio' of simulated gains and losses of coins you 'own.'
     - [ ] Ability to buy/sell/trade coins based on current data
-    - [ ] Interaction between users with their coins / fiat
+    - [ ] Interaction between users with their coins
+- [ ] Crypto coin tracking (Heroku database)
 - [ ] Server leveling (Heroku database)
 - [ ] Server economy (Heroku database)
 #### User functions

@@ -52,7 +52,9 @@ feel free to '@iTakeDonations#8077' to contact me.
 
 ### Requirements:
 [Python >= 3.8](https://www.python.org/downloads/ "Python Download Page")  
-[PostgreSQL >= 12.7](https://www.postgresql.org/download/ "PostgreSQL Download Page")
+[PostgreSQL >= 12.7](https://www.postgresql.org/download/ "PostgreSQL Download Page")  
+[discord.py](https://github.com/Rapptz/discord.py)  
+[discord-py-slash-commands >= 3.0.1](https://pypi.org/project/discord-py-slash-command/)
 
 # License
 [MIT](../LICENSE) © 2021 AnotherCreator

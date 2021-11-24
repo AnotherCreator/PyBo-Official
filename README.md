@@ -10,11 +10,9 @@ Pybo (paɪ boʊ) is a [Discord](https://discord.com/brand-new) bot that utilizes
 API wrapper to run the bot. Pybo also integrates the [CoinMarketCap API](https://coinmarketcap.com/) to track and display the top 100 cryptocurrencies.
 
 #### Quick Disclaimer:
-The current version of Pybo (DevBo) being hosted here on Github will usually be the latest / stable version of the bot 
-available. I am currently running two separate instances of the bot, one locally (DevBo | Github) and one in the cloud (PyBo | Heroku). 
-If you choose to invite the **official** PyBo hosted on the cloud, please be aware that there might still be some issues 
-as I am continually exploring *Heroku* and *PostgreSQL*.
+This version of PyBo will be the most stable release of the bot, however, if you wish to access the offline non-stable releases please refer to [DevBo](https://github.com/AnotherCreator/DevBo-Official). 
 
+DevBo will run without the need of setting up a cloud hosting service.
 
 # Table of contents
 - [Features](#features)

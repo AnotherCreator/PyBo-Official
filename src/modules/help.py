@@ -1,10 +1,10 @@
 # ---       IMPORTS         --- #
 import discord
+import os
 
 from discord.ext import commands
 from discord_slash import cog_ext, SlashContext
 from discord_slash.utils.manage_commands import create_choice, create_option
-from pybo import BOT_AVATAR, guild_ids
 
 
 # ---     CUSTOM CHECKS     --- #
@@ -12,6 +12,11 @@ def bot_channel_check(ctx):
     botspam_channels = ['bot-spam', 'bot-commands']
     if str(ctx.message.channel) in botspam_channels or ctx.author.id == 291005201840734218:
         return True
+
+
+# ---       ENV VARIABLES       --- #
+BOT_AVATAR = os.environ.get('BOT_AVATAR')
+guild_ids = [746153452606062652, 823595529250275378]
 
 
 # ---       MAIN LINE       --- #

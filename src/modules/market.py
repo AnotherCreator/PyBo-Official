@@ -99,7 +99,6 @@ def cache_coins():  # Run this once to init db values
     except (ConnectionError, Timeout, TooManyRedirects) as e:
         print(e)
 
-cache_coins()
 def update_coins():
     try:
         coin_response = session.get(api_data, params=coin_parameters)
